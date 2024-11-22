@@ -23,14 +23,14 @@ Light, Dark, and Monochrome modes.
 
 # Installation
 
-##Prerequisites
+## Prerequisites
 - Web Server: Apache/Nginx
 - PHP: Version 7.4 or higher
 - MySQL: For database management
 - Composer: To manage dependencies
 -Node.js: Optional, for compiling assets (e.g., SCSS, JavaScript)
 
-#Setup
+# Setup
 - Clone the repository:
 
 `
