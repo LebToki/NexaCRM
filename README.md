@@ -95,44 +95,14 @@ The admin panel provides comprehensive control over the CRM, allowing you to:
 
 Screenshots
 
+
 Dashboard Overview
+
 
 Dark Mode
 
+
 Contacts Module
-
-## Folder Structure
-
-crm-dashboard/
-├── assets/                # Static assets (CSS, JS, images, fonts)
-│   ├── css/               # Stylesheets (e.g., Bootstrap, custom CSS)
-│   ├── js/                # JavaScript files (e.g., custom scripts)
-│   ├── images/            # Image assets for the app
-│   └── fonts/             # Web fonts used in the application
-├── includes/              # Reusable PHP components
-│   ├── helpers/           # Helper functions for reusability
-│   ├── connections.php    # Database connection setup
-│   └── sessions.php       # Session management scripts
-├── dashboard/             # Core dashboard files
-│   ├── index.php          # Main dashboard page
-│   ├── widgets/           # Dynamic widgets for the dashboard
-│   └── partials/          # Navbar, sidebar, and common UI elements
-├── modules/               # Individual modules (contacts, companies, etc.)
-│   ├── contacts/          # Contact management module
-│   ├── companies/         # Company management module
-│   └── users/             # User and role management module
-├── config/                # Configuration files
-│   └── config.php         # Application-wide settings
-├── migrations/            # Database migrations
-│   ├── create_users_table.php  # Migration script for users table
-│   ├── create_contacts_table.php  # Migration script for contacts table
-│   └── create_roles_table.php    # Migration script for roles table
-├── public/                # Publicly accessible files
-│   ├── index.php          # Entry point for the application
-│   ├── .htaccess          # Apache configurations (if applicable)
-│   └── uploads/           # Directory for uploaded files (e.g., images)
-├── README.md              # Documentation for the project
-└── .env.example           # Example environment configuration file
 
 
 # Contributing
