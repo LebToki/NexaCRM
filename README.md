@@ -61,10 +61,10 @@ cp .env.example .env
 - Configure the .env file with your database credentials:
 
 `
-DB_HOST=127.0.0.1
-DB_DATABASE=crm_dashboard
-DB_USERNAME=root
-DB_PASSWORD=your_password
+- DB_HOST=127.0.0.1
+- DB_DATABASE=crm_dashboard
+- DB_USERNAME=root
+- DB_PASSWORD=your_password
 `
 
 - Access the app in your browser:
@@ -93,7 +93,7 @@ The admin panel provides comprehensive control over the CRM, allowing you to:
 
 - Customize sidebar and header styles.
 
-Screenshots
+# Screenshots (uploaded soon)
 
 
 Dashboard Overview
